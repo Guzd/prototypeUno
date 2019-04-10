@@ -117,19 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="Temporizado.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <metadata name="ConexionSerial.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>124, 16</value>
-  </metadata>
-  <data name="richTextBox1.Text" xml:space="preserve">
-    <value>Esta es una interfaz de prueba para implementar una comunicación bidireccional Interfaz-Arduino.
-      1) Selecciona los niveles de salida deseados 
-      2) Elige el nodo al que se desea enviar los datos
-      3) Observa la confirmación </value>
-  </data>
-  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>54</value>
-  </metadata>
 </root>
