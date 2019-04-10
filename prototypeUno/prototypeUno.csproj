@@ -70,6 +70,12 @@
     <Compile Include="formPractica2.Designer.cs">
       <DependentUpon>formPractica2.cs</DependentUpon>
     </Compile>
+    <Compile Include="formPractica3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formPractica3.Designer.cs">
+      <DependentUpon>formPractica3.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
